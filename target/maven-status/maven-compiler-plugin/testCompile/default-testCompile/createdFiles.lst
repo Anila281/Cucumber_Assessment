@@ -1,0 +1,3 @@
+TestRunner\RunTest.class
+Hooks\PreTest.class
+StepDef\StepActions.class
